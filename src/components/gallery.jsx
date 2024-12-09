@@ -21,7 +21,7 @@ export const Gallery = (props) => {
       title: 'Portfolio App',
       description: 'This Portfolio have been created using react.',
       img: furniture,
-      link: 'https://github.com/sathishjarvis/portfolio-application-'
+      link: 'https://sathishjarvis.github.io/sathish-profile/'
     }, {
       id: 3,
       title: 'Invoice Generator',

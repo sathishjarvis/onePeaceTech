@@ -40,7 +40,7 @@ export const Services = (props) => {
               <div className="plan-image">
                 <img src={statics} alt={'static'} />
                 <div className="price">
-                  <p>3999</p>
+                  <p>&#8377; 3999</p>
                   <p>+18% GST</p>
                 </div>
                 <h2>4 years STARTUP PLAN</h2>
@@ -55,8 +55,7 @@ export const Services = (props) => {
                   <li>Google Maps</li>
                   <li>Contact Form</li>
                   <li> Mobile Responsive</li>
-                  <li>Yearly Renewal Rs.500+Domain Charge
-                  </li>
+                  <li>Yearly Renewal + Domain Charge</li>
                 </ul>
                 <p to="/contact" className="get-quote-btn">GET QUOTE </p>
               </div>
@@ -72,7 +71,7 @@ export const Services = (props) => {
               <div className="plan-image">
                 <img src={dynamics} alt={'dynamic'} />
                 <div className="price">
-                  <p>6999</p>
+                  <p>&#8377; 6999</p>
                   <p>+12% GST</p>
                 </div>
                 <h2>2 years STANDARD PLAN</h2>
@@ -84,13 +83,13 @@ export const Services = (props) => {
                   <li>Upto 10 pages</li>
                   <li>Whatsapp Intagration</li>
                   <li>Social Media Integration</li>
-                  <li>Standard Design</li>
-                  <li>Gallery Section</li>
+                  <li>Premium Design</li>
+                  <li>Google Forms intergration</li>
                   <li>Business Mail-1</li>
                   <li>Google Maps</li>
                   <li>Contact Form</li>
                   <li>Mobile Responsive</li>
-                  <li>Yearly Renewal Rs.1000+Domain Charge</li>
+                  <li>Yearly Renewal + Domain Charge</li>
                 </ul>
                 <a to="/contact" href="#contact" className="get-quote-btn">GET QUOTE </a>
               </div>
