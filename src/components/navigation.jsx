@@ -18,7 +18,7 @@ export const Navigation = () => {
             <span className="icon-bar"></span>{" "}
           </button>
           <a className="navbar-brand page-scroll" href="#page-top">
-            <img src="..\img\onepeacelogo.png" alt="logo" className="logo"/>
+            <img src="..\public\img\onepeacelogo.png" alt="logo" className="logo"/>
           </a>{" "}
         </div>
 
